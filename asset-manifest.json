@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Dyte-task/static/css/main.7c7ec292.chunk.css",
+    "main.js": "/Dyte-task/static/js/main.ac78bfce.chunk.js",
+    "main.js.map": "/Dyte-task/static/js/main.ac78bfce.chunk.js.map",
+    "runtime-main.js": "/Dyte-task/static/js/runtime-main.12b32279.js",
+    "runtime-main.js.map": "/Dyte-task/static/js/runtime-main.12b32279.js.map",
+    "static/css/2.3ceb25c6.chunk.css": "/Dyte-task/static/css/2.3ceb25c6.chunk.css",
+    "static/js/2.fc4fb61b.chunk.js": "/Dyte-task/static/js/2.fc4fb61b.chunk.js",
+    "static/js/2.fc4fb61b.chunk.js.map": "/Dyte-task/static/js/2.fc4fb61b.chunk.js.map",
+    "index.html": "/Dyte-task/index.html",
+    "static/css/2.3ceb25c6.chunk.css.map": "/Dyte-task/static/css/2.3ceb25c6.chunk.css.map",
+    "static/css/main.7c7ec292.chunk.css.map": "/Dyte-task/static/css/main.7c7ec292.chunk.css.map",
+    "static/js/2.fc4fb61b.chunk.js.LICENSE.txt": "/Dyte-task/static/js/2.fc4fb61b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12b32279.js",
+    "static/css/2.3ceb25c6.chunk.css",
+    "static/js/2.fc4fb61b.chunk.js",
+    "static/css/main.7c7ec292.chunk.css",
+    "static/js/main.ac78bfce.chunk.js"
+  ]
+}
