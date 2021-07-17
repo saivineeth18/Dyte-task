@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Dyte-task/static/css/main.7c7ec292.chunk.css",
-    "main.js": "/Dyte-task/static/js/main.e3487060.chunk.js",
-    "main.js.map": "/Dyte-task/static/js/main.e3487060.chunk.js.map",
+    "main.js": "/Dyte-task/static/js/main.0b5c1cf7.chunk.js",
+    "main.js.map": "/Dyte-task/static/js/main.0b5c1cf7.chunk.js.map",
     "runtime-main.js": "/Dyte-task/static/js/runtime-main.12b32279.js",
     "runtime-main.js.map": "/Dyte-task/static/js/runtime-main.12b32279.js.map",
     "static/css/2.3ceb25c6.chunk.css": "/Dyte-task/static/css/2.3ceb25c6.chunk.css",
-    "static/js/2.752886a2.chunk.js": "/Dyte-task/static/js/2.752886a2.chunk.js",
-    "static/js/2.752886a2.chunk.js.map": "/Dyte-task/static/js/2.752886a2.chunk.js.map",
+    "static/js/2.39c973a5.chunk.js": "/Dyte-task/static/js/2.39c973a5.chunk.js",
+    "static/js/2.39c973a5.chunk.js.map": "/Dyte-task/static/js/2.39c973a5.chunk.js.map",
     "index.html": "/Dyte-task/index.html",
     "static/css/2.3ceb25c6.chunk.css.map": "/Dyte-task/static/css/2.3ceb25c6.chunk.css.map",
     "static/css/main.7c7ec292.chunk.css.map": "/Dyte-task/static/css/main.7c7ec292.chunk.css.map",
-    "static/js/2.752886a2.chunk.js.LICENSE.txt": "/Dyte-task/static/js/2.752886a2.chunk.js.LICENSE.txt"
+    "static/js/2.39c973a5.chunk.js.LICENSE.txt": "/Dyte-task/static/js/2.39c973a5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.12b32279.js",
     "static/css/2.3ceb25c6.chunk.css",
-    "static/js/2.752886a2.chunk.js",
+    "static/js/2.39c973a5.chunk.js",
     "static/css/main.7c7ec292.chunk.css",
-    "static/js/main.e3487060.chunk.js"
+    "static/js/main.0b5c1cf7.chunk.js"
   ]
 }
